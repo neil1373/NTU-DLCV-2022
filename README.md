@@ -24,8 +24,8 @@
 ## Some Useful References
 > Most of the following links come from the course ML (Machine Learning) given by Prof. Hung-Yi Lee in NTU (National Taiwan University).
 
-[1]: [NTU ML Spring 2021 HW3](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW03/HW03.ipynb)
-[2]: [NTU ML Spring 2021 HW6](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW06/HW06.ipynb)
-[3]: [NTU ML Spring 2023 HW6](https://www.kaggle.com/code/b07202024/hw6-diffusion-model)
-[4]: [NTU ML Spring 2021 HW11 (EN. Version)](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW11/HW11_EN.ipynb)
-     [NTU ML Spring 2021 HW11 (ZH. Version)](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW11/HW11_ZH.ipynb)
+[1]: [NTU ML Spring 2021 HW3](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW03/HW03.ipynb) <br>
+[2]: [NTU ML Spring 2021 HW6](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW06/HW06.ipynb) <br>
+[3]: [NTU ML Spring 2023 HW6](https://www.kaggle.com/code/b07202024/hw6-diffusion-model) <br>
+[4]: [NTU ML Spring 2021 HW11 (EN. Version)](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW11/HW11_EN.ipynb) <br>
+     [NTU ML Spring 2021 HW11 (ZH. Version)](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW11/HW11_ZH.ipynb) <br>
